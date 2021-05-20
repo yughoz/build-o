@@ -1,0 +1,71 @@
+Term n Condition
+FAQ
+Mengapa Harus Build O   
+Cara Kerja Renovasi dan Bangun
+Yang telah kami kerjakan
+Apa Kata Mereka
+Renovasi Rumah dengan mudah 
+
+
+bisa di edit
+
+
+category dan sub category
+
+master category persevice
+product
+    ->pilih category
+
+
+
+
+Renovasi & Perbaikan =  service yang banyak product
+kategorynya 
+
+
+
+
+1.btn konsultasi wa;
+2.btn beli (udah login);
+
+
+
+
+service
+    product
+        detail
+            konsultasi/beli
+
+
+
+konsultasi => status, 
+project berjalan (porsentase) =>
+
+
+
+==========
+04 feb
+
+udah terlalu jauh sama di diagram 
+
+detail design harunya cuma nampilin foto aja    
+
+Product DEtail harusnya gaada konsultasi 
+
+modula-detail 
+beli sekarang
+
+
+# kategory designya ga bisa bgtu 
+
+custom design disini belom ada di mockup
+Isi Form (detail form terlampir)        
+
+
+
+
+harga di kaliiin 
+
+
+
+ php -S localhost:8000 -t public   
