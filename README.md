@@ -1,6 +1,6 @@
 # SobatBangun Backoffice Reflection
 
-This project created for SobatBangun Reflection admin for manage SobatBangun Refelection Website using Laravel 7 and Spatie for permission.
+This project created for Build O admin for manage SobatBangun Refelection Website using Laravel 7 and Spatie for permission.
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -77,7 +77,7 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-Installing SobatBangun Reflection Backoffice
+Installing Build O Backoffice
 -------------------------
 
 * Created .env from .env.example
